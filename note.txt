@@ -1,0 +1,42 @@
+
+
+loop 
+
+1.for loop
+2.foreach loop
+3.while loop
+4. do while loop
+
+//Js
+//for loop
+for(initialize; condition/range; increment/decrement){
+    //statement
+}
+//js
+for(let i=0; i<=5; i++){
+    console.log("Hellow Wold!")
+}
+
+//php
+for($i=0; $i<=5; $i++){
+  echo  "Hellow World!"
+}
+
+//while loop....
+
+initialize;
+
+while(condition/range){
+    //statement....
+    //increment/decrement...
+}
+
+$i=0;
+while(i<=5){
+    echo "Hellow World";
+    $i++
+}
+
+
+
+
